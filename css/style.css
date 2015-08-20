@@ -1,0 +1,10 @@
+.body{
+    margin: 0 auto;
+
+}
+.main{
+    margin: 0 auto;
+    background: url(../images/bg.jpg) ;
+     width: auto;
+    height: 1688px;
+}
